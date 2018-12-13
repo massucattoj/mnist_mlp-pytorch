@@ -5,17 +5,15 @@ O conjunto de dados MNIST é composto por imagens de digitos escritos a mão. Co
 60.000 imagens para treinamento e outras 10.000 imagens para teste.
 
 ## Imagens
-
 Todas as imagens possuem o mesmo tamanho, 28x28 pixels e estão em tons de cinza.
-
 Abaixo algumas imagens exemplo que podemos encontrar no conjunto de dados de treinamento.
 
 <p align="center">
    <img src="mnist_batch.png" />
 </p>
 
-Mostrando uma imagem como matrix podemos analisar o valor dos pixels presentes em escala 
-de cinza.
+Mostrando uma imagem exemplo como matrix podemos analisar o valor dos pixels ja 
+normalizados.
 
 <p align="center">
    <img src="mnist_sample.png" />
